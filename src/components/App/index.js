@@ -1,7 +1,7 @@
 import React, { Component} from 'react';
 import 'whatwg-fetch';
 import './App.css';
-import Intro from '../intro';
+import Intro from '../Intro';
 import Series from '../../containers/Series';
 
 class App extends Component {
